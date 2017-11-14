@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTimer", "WpfTimer\WpfTimer.csproj", "{95264B5E-9EF0-437E-9BEC-E87E92513463}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95264B5E-9EF0-437E-9BEC-E87E92513463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95264B5E-9EF0-437E-9BEC-E87E92513463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95264B5E-9EF0-437E-9BEC-E87E92513463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95264B5E-9EF0-437E-9BEC-E87E92513463}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23716B30-D749-4EB2-9E80-D95EB254AE74}
+	EndGlobalSection
+EndGlobal
